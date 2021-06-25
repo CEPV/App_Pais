@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">MyApp_ListaPaises</string>
+
+    <string name="guatemala">
+    Guatemala
+
+    Población: 17,613,245
+
+</string>
+    <string name="Salvador">
+    El Salvador
+
+    Población: 6,427,479
+
+</string>
+    <string name="Honduras">
+    Honduras
+
+    Población: 9,917,167
+
+</string>
+    <string name="Nicaragua">
+    Nicaragua
+
+    Población: 6,51,956
+
+</string>
+    <string name="CostaRica">
+    Costa Rica
+
+    Población: 5,003,000
+
+</string>
+    <string name="Panama">
+    Panama
+
+    Población: 4,170,607
+
+</string>
+    <string name="México">
+    México
+
+    Población: 126,014,024
+
+</string>
+    <string name="EstadosUnidos">
+    Estados Unidos
+
+    Población: 328,461,000
+
+</string>
+    <string name="Canada">
+    Canada
+
+    Población: 38.005.238
+
+</string>
+    <string name="Belice">
+    Belice
+
+    Población: 387 879
+
+</string>
+
+
+</resources>
